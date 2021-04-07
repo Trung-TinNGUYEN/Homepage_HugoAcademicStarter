@@ -2,9 +2,9 @@
 abstract: 
 authors:
 - admin
-- Chamroukhi, Faicel
-- Nguyen, Hien D. 
-- McLachlan, Geoffrey J
+- Faicel Chamroukhi
+- Hien Duy Nguyen 
+- Geoffrey J McLachlan
 date: "2020-08-22T00:00:00Z"
 doi: ""
 featured: false

@@ -2,9 +2,9 @@
 abstract: 
 authors:
 - admin
-- Nguyen, Hien D.
-- Chamroukhi, Faicel
-- McLachlan, Geoffrey J
+- Hien Duy Nguyen
+- Faicel Chamroukhi
+- Geoffrey J McLachlan
 date: "2020-09-22T00:00:00Z"
 doi: ""
 featured: false
@@ -27,7 +27,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 projects:
-- Model Selection in mixture of experts models
+- Model selection in mixture of experts models
 ---
 
 

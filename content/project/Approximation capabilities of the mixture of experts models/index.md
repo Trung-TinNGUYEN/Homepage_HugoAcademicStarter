@@ -1,6 +1,6 @@
 ---
 title: Approximation capabilities of the mixture of experts models
-summary: 
+summary: Finite mixture models and mixture of experts models are an expansive and expressive class of probability models that have been successfully applied in many situations where data follow a complex generative process that may be highly heterogeneous. It has long been known that finite mixture models, under sufficient regularity conditions, can approximate any probability density functions to arbitrary degrees of accuracy, and such results have been established under varying assumptive restrictions. Our work seeks to provide the weakest set of assumptions in order to establish approximation theoretic results over the widest class of probability density problems, possible. In particular, we demonstrate the richness of the class of MoE models by proving denseness results in Lebesgue spaces, when inputs and outputs variables are both compactly supported. We further prove an almost uniform convergence result when the input is univariate. Auxiliary lemmas are proved regarding the richness of the soft-max gating function class, and their relationships to the class of Gaussian gating functions. The result provides further evidence towards the success of mixture models in applications, and provides mathematical guarantees to practitioners who apply finite mixture models as well as mixture of experts models in their analytic problems.
 tags:
 - Approximation capabilities of the mixture of experts models
 date: "2020-03-29T00:00:00Z"

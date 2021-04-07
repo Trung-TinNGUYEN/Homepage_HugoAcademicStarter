@@ -11,7 +11,7 @@ education:
     institution: Université d'Orléans, France
     year: 2017-2018
   - course: B.S. Honors Program in Mathematics and Computer Science
-    institution: Vietnam National University - Ho Chi Minh Univeristy of Science, Vietnam
+    institution: Vietnam National University-Ho Chi Minh Univeristy of Science, Vietnam
     year: 2013-2017  
 email: "trung-tin.nguyen@unicaen.fr"
 interests:

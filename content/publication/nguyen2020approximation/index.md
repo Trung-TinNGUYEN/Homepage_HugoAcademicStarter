@@ -5,9 +5,9 @@ abstract:
 # - Equal contribution
 authors:
 - admin
-- Nguyen, Hien D. 
-- Chamroukhi, Faicel
-- McLachlan, Geoffrey J
+- Hien Duy Nguyen
+- Faicel Chamroukhi
+- Geoffrey J McLachlan
 date: "2020-03-29T00:00:00Z"
 doi: ""
 featured: false
