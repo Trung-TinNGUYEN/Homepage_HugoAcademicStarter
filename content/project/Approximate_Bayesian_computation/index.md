@@ -19,7 +19,7 @@ links:
 #  url: https://twitter.com/TrungTinNGUYE10
 url_code: ""
 url_pdf: 
-url_slides: "https://bit.ly/3a0EfuV"
+url_slides: "https://bit.ly/2RnMlat"
 url_video: "https://www.youtube.com/watch?v=dNFUWvg1AQU&t=139s&ab_channel=CriteoEng"
 
 # Slides (optional).
