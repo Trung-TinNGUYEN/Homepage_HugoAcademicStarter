@@ -33,22 +33,22 @@ social:
   link: mailto:tinnguyen0495@gmail.com
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Trung_Tin_Nguyen3
+  link: https://bit.ly/32ew4qF
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-8433-5980
+  link: https://bit.ly/39TqJJt
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=NhiJDJsAAAAJ&hl=en
+  link: https://bit.ly/3dUk5E5
 - icon: github
   icon_pack: fab
-  link: https://github.com/Trung-TinNGUYEN
+  link: https://bit.ly/3uGLH63
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/trung-tin-nguyen0495/
+  link: https://bit.ly/3wFNV7H
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/TrungTinNGUYE10  
+  link: https://bit.ly/39Y2sSA  
 superuser: true
 title: TrungTin Nguyen
 #title: 
