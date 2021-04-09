@@ -14,14 +14,21 @@
 #  weight = 20
 
 [[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 10
+  
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 10
+  name = "Talks"
+  url = "#talks"
+  weight = 30
+
+
 
 #[[main]]
 #  name = "Courses"
@@ -37,7 +44,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "files/cv.pdf"
+    url = "cv.pdf"
     weight = 80
   [[main]]
     name = "Achievements"

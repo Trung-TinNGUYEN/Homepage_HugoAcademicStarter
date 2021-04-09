@@ -20,7 +20,7 @@ links:
 #  url: https://twitter.com/TrungTinNGUYE10
 url_code: ""
 url_pdf: ""
-url_slides: "https://bit.ly/2QaPr0O"
+url_slides: "slides/NAPC-GLoME-Beamer.pdf"
 url_video: ""
 
 # Slides (optional).
