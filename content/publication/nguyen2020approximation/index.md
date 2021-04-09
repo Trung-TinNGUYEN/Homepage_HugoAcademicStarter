@@ -17,7 +17,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-03-29T00:00:00Z"
-summary:
+summary: Given sufficiently many components, it is often cited that finite mixture models can approximate any other probability density function (PDF) to an arbitrary degree of accuracy. Unfortunately, the nature of this approximation result is often left unclear. We prove that finite mixture models constructed from pdfs in C0 can be used to conduct approximation of various classes of approximands in a number of different modes. That is, we prove approximands in C0 can be uniformly approximated, approximands in Cb can be uniformly approximated on compact sets, and approximands in Lp can be approximated with respect to the Lp, for p is larger than 1. Furthermore, we also prove that measurable functions can be approximated, almost everywhere.
 tags:
 - Source Themes
 title: Approximation by finite mixtures of continuous density functions that vanish at infinity

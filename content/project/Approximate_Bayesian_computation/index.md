@@ -1,6 +1,6 @@
 ---
 title: Approximate Bayesian computation
-summary: Approximate Bayesian computation with finite Gaussian mixtures.
+summary: Approximate Bayesian computation with Gaussian-gated localized mixture of experts (GLoME) models.
 tags:
 - Approximate Bayesian computation
 date: "2021-02-12T00:00:00Z"

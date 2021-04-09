@@ -14,7 +14,7 @@ publication_short: ""
 publication_types:
 - "3"
 publishDate: "2020-12-04T00:00:00Z"
-summary:
+summary: Mixture of experts (MoE) models are widely applied for conditional probability density estimation problems. We demonstrate the richness of the class of MoE models by proving denseness results in Lebesgue spaces, when inputs and outputs variables are both compactly supported. We further prove an almost uniform convergence result when the input is univariate. Auxiliary lemmas are proved regarding the richness of the soft-max gating function class, and their relationships to the class of Gaussian gating functions.
 tags:
 - Source Themes
 title: Approximations of conditional probability density functions in Lebesgue spaces via mixture of experts models
