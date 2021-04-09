@@ -20,7 +20,7 @@ links:
 #  url: https://twitter.com/TrungTinNGUYE10
 url_code: ""
 url_pdf: ""
-url_slides: "https://bit.ly/3t6VBhd"
+url_slides: "https://bit.ly/3a0EfuV"
 url_video: ""
 
 # Slides (optional).

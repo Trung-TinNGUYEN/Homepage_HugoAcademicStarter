@@ -33,7 +33,7 @@ tags: []
 title: Non-asymptotic penalization criteria for model selection in mixture of experts models
 url_code: ""
 url_pdf: ""
-url_slides: "https://bit.ly/3t6VBhd"
+url_slides: "https://bit.ly/3a0EfuV"
 url_video: ""
 ---
 <!---
