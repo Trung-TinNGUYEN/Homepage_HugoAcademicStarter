@@ -46,7 +46,7 @@ abstract: A key ingredient in approximate Bayesian computation (ABC) procedures 
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://hal.archives-ouvertes.fr/hal-03139256'
+url_pdf: 'https://bit.ly/3fYw06u'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -23,7 +23,7 @@ tags:
 title: Approximation by finite mixtures of continuous density functions that vanish at infinity
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/25742558.2020.1750861
+url_pdf: https://bit.ly/2PTBjJv
 url_poster: ""
 url_project: ""
 url_slides: ""

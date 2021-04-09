@@ -20,7 +20,7 @@ tags:
 title: Approximations of conditional probability density functions in Lebesgue spaces via mixture of experts models
 url_code: ""
 url_dataset: ""
-url_pdf: https://arxiv.org/abs/2012.02385
+url_pdf: https://bit.ly/3t524sX
 url_poster: ""
 url_project: ""
 url_slides: ""

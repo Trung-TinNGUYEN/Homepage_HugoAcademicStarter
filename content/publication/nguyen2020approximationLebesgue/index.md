@@ -20,7 +20,7 @@ tags:
 title: Approximation of probability density functions via location-scale finite mixtures in Lebesgue spaces
 url_code: ""
 url_dataset: ""
-url_pdf: https://arxiv.org/pdf/2008.09787
+url_pdf: https://bit.ly/3fZ1dGC
 url_poster: ""
 url_project: ""
 url_slides: ""

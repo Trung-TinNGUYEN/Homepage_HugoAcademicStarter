@@ -46,7 +46,7 @@
     name = "CV"
     url = "https://bit.ly/3t4PGJj"
     weight = 80
-  [[main]]
+  [[main]]  
     name = "Achievements"
     url = "#achievements"
     weight = 70
