@@ -26,14 +26,13 @@ math: true
 projects:
 - Model selection in mixture of experts models
 publishDate: "2017-01-01T00:00:00Z"
-#slides: example
 slides: 
 summary: 
 tags: []
 title: Non-asymptotic penalization criteria for model selection in mixture of experts models
 url_code: ""
 url_pdf: ""
-url_slides: "https://bit.ly/3a0EfuV"
+url_slides: "https://bit.ly/3a0EfuV "
 url_video: ""
 ---
 <!---
