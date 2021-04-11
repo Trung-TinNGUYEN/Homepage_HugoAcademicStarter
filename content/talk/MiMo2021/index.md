@@ -11,7 +11,7 @@ authors: [admin]
 date: "2021-04-08T09:00:00Z"
 date_end: "2021-04-09T15:00:00Z"
 event: MiMo 2021 Workshop on Mixture Models.
-event_url: https://mimo2021.sciencesconf.org/
+event_url: https://mimo2021.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en
 featured: true
 image:
   caption: 'Image credit: **Dung N. Nguyen & Florence Forbes**'
