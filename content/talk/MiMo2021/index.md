@@ -6,7 +6,7 @@ address:
   postcode: ""
   region: Normandie, France
   street: 
-all_day: false
+all_day: true
 authors: [admin]
 date: "2021-04-08T09:00:00Z"
 date_end: "2021-04-09T15:00:00Z"
@@ -27,7 +27,7 @@ location: Laboratory of Mathematics Raphaël Salem (LMRS, UMR CNRS 6085)
 math: true
 projects:
 - Model selection in mixture of experts models
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-09T90:30:00Z"
 slides: 
 summary: 
 tags: []

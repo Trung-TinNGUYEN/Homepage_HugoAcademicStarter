@@ -14,7 +14,7 @@ publication_short: ""
 publication_types:
 - "3"
 publishDate: "2020-03-29T00:00:00Z"
-summary: The class of location-scale finite mixtures is of enduring interest both from applied and theoretical perspectives of probability and statistics. We prove the following results; to an arbitrary degree of accuracy, (a) location-scale mixtures of a continuous probability density function (PDF) can approximate any continuous PDF, uniformly, on a compact set; and (b) for any finite p >= 1, with p is larger than 1, location-scale mixtures of an essentially bounded PDF can approximate any PDF in Lp, in the Lp norm.
+summary: The class of location-scale finite mixtures is of enduring interest both from applied and theoretical perspectives of probability and statistics. We prove the following results; to an arbitrary degree of accuracy, (a) location-scale mixtures of a continuous probability density function (PDF) can approximate any continuous PDF, uniformly, on a compact set; and (b) for any finite $p \in [1,\infty)$, location-scale mixtures of an essentially bounded PDF can approximate any PDF in $L_p$, in the $L_p$ norm.
 tags:
 - Source Themes
 title: Approximation of probability density functions via location-scale finite mixtures in Lebesgue spaces

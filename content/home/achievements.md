@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://bit.ly/3dUSvXj"
   date_start = "2018-06-01"
   date_end = "2018-08-09"
-  description = "There are 5 Courses in this Specialization:    Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, and Sequence Models."
+  description = "There are 5 Courses in this Specialization: Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, and Sequence Models."
 
 [[item]]
   organization = "Institute for Research Development, Training and Advice (IRDTA) – Brussels/London"
