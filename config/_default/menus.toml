@@ -47,6 +47,6 @@
     url = "https://bit.ly/3t4PGJj"
     weight = 80
   [[main]]  
-    name = "Achievements"
-    url = "#achievements"
+    name = "Accomplishments"
+    url = "#accomplishments"
     weight = 70
