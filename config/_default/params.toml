@@ -66,7 +66,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = true
+math = true   
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -287,7 +287,9 @@ plugins_js  = []
 ############################
 [marketing]
   google_analytics = "UA-170614851-1"
+  google_site_verification = "7sDzRLGCI3jdQaJvIpiNBWCFO9ySNvwAahhYkBny-D4"
   google_tag_manager = ""
+  
 
 ############################
 ## Content Management System
