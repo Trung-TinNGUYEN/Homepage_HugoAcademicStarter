@@ -4,7 +4,7 @@ address:
   city: Paris
   country: France
   postcode: ""
-  region: Institut de Mathématique d’Orsay, Paris, France
+  region: Institut de Mathématique d'Orsay, Paris, France
   street: 
 all_day: true
 authors: [admin]
@@ -14,7 +14,7 @@ event: MHC2021 Mixtures Hidden Markov model Clustering.
 event_url: https://www.imo.universite-paris-saclay.fr/~mhc2021/spip.php?page=sommaire
 featured: true
 image:
-  caption: ''
+  caption:
   focal_point: Right
 links:
 - icon: twitter
@@ -22,7 +22,7 @@ links:
   name: Follow
   url: https://twitter.com/TrungTinNGUYE10
   
-location: Institut de Mathématique d’Orsay, Paris, France
+location: Institut de Mathématique d'Orsay, Paris, France
 
 math: true
 projects:
