@@ -14,7 +14,7 @@ event: MHC2021 Mixtures Hidden Markov model Clustering.
 event_url: https://www.imo.universite-paris-saclay.fr/~mhc2021/spip.php?page=sommaire
 featured: true
 image:
-  caption:
+  caption: ""
   focal_point: Right
 links:
 - icon: twitter
