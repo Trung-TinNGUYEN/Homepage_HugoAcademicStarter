@@ -1,14 +1,14 @@
 ---
 abstract: Mixture of experts (MoE) is a popular class of models in statistics and machine learning that has sustained attention over the years, due to its flexibility and effectiveness. We consider the Gaussian-gated localized MoE (GLoME) regression model for modeling heterogeneous data. This model poses challenging questions with respect to the statistical estimation and model selection problems, including feature selection, both from the computational and theoretical points of view. We study the problem of estimating the number of components of the GLoME model, in a penalized maximum likelihood estimation framework. We provide a lower bound on the penalty that ensures a weak oracle inequality is satisfied by our estimator. To support our theoretical result, we perform numerical experiments on simulated and real data, which illustrate the performance of our finite-sample oracle inequality.
 address:
-  city: Paris
-  country: France
+  city: 
+  country: 
   postcode: ""
-  region: Paris, France
+  region: 
   street: 
 all_day: true
 authors: [admin]
-date: 2021-06-02T13:15:00Z"
+date: "2021-06-02T13:15:00Z"
 date_end: "2021-06-04T19:00:00Z"
 event: MHC2021 Mixtures Hidden Markov model Clustering.
 event_url: https://www.imo.universite-paris-saclay.fr/~mhc2021/spip.php?page=sommaire
