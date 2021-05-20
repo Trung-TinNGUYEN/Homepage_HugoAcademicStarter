@@ -14,7 +14,7 @@ event: MHC2021 Mixtures Hidden Markov model Clustering.
 event_url: https://www.imo.universite-paris-saclay.fr/~mhc2021/spip.php?page=sommaire
 featured: true
 image:
-  caption: 'Image credit: **admin**'
+  caption: ''
   focal_point: Right
 links:
 - icon: twitter
@@ -31,7 +31,7 @@ publishDate: "2020-04-09T90:30:00Z"
 slides: 
 summary: 
 tags: []
-title: Non-asymptotic model selection in mixture of polynomial experts models
+title: Non-asymptotic penalization criteria for model selection in mixture of experts models
 url_code: ""
 url_pdf: ""
 url_slides: "https://arxiv.org/abs/2104.02640"
