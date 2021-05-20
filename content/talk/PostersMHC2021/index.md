@@ -4,17 +4,17 @@ address:
   city: Paris
   country: France
   postcode: ""
-  region: Institut de Mathématique d'Orsay, Paris, France
+  region: Paris, France
   street: 
 all_day: true
 authors: [admin]
-date: "2021-06-02T13:15:00Z"
+date: 2021-06-02T13:15:00Z"
 date_end: "2021-06-04T19:00:00Z"
 event: MHC2021 Mixtures Hidden Markov model Clustering.
 event_url: https://www.imo.universite-paris-saclay.fr/~mhc2021/spip.php?page=sommaire
 featured: true
 image:
-  caption: ""
+  caption: 'Image credit: **admin**'
   focal_point: Right
 links:
 - icon: twitter
@@ -27,14 +27,14 @@ location: Institut de Mathématique d'Orsay, Paris, France
 math: true
 projects:
 - Model selection in mixture of experts models
-publishDate: "2021-06-03T10:30:00Z"
+publishDate: "2020-04-09T90:30:00Z"
 slides: 
 summary: 
 tags: []
 title: Non-asymptotic model selection in mixture of polynomial experts models
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://arxiv.org/abs/2104.02640"
 url_video: ""
 ---
 <!---
