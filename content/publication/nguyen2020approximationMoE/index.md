@@ -9,7 +9,7 @@ date: "2020-12-04T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: 'arXiv preprint arXiv:2012.02385'
+publication: 'arXiv preprint arXiv:2012.02385. To appear, Journal of Statistical Distributions and Applications'
 publication_short: ""
 publication_types:
 - "3"

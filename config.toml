@@ -11,10 +11,10 @@
 
 # The source directory and the username.github.io directory are under the same parent directory. 
 # In this case, you need to set the option publishDir = "../username.github.io"  in source/config.toml  
-publishDir = "/export/home/nguyent04/MEGA/2022-2019_PhD Program_Caen/Blogdown/Trung-TinNGUYEN.github.io/" 
+publishDir = "/export/home/nguyent04/MEGA/2022-2019_PhD Program_Caen/Blogdown/Trung-TinNGUYEN.github.io/"
+# Title of your site2022-2019_PhD Program_Caen/Blogdown/Trung-TinNGUYEN.github.io/" 
 
 
-# Title of your site
 title = "TrungTin Nguyen"
 
 # The URL of your site.
