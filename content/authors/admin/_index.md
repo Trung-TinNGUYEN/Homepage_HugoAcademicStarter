@@ -40,6 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://bit.ly/3dUk5E5
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/1899270520
 - icon: github
   icon_pack: fab
   link: https://bit.ly/3uGLH63
