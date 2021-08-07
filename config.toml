@@ -8,12 +8,10 @@
 # Set up workspace if /home is not supported.
 #/home/nguyent04/MEGA/PhD Program_Caen_2018-2021/Blogdown/homePageHugo-academic/
 
-
 # The source directory and the username.github.io directory are under the same parent directory. 
 # In this case, you need to set the option publishDir = "../username.github.io"  in source/config.toml  
 publishDir = "/export/home/nguyent04/MEGA/2022-2019_PhD Program_Caen/Blogdown/Trung-TinNGUYEN.github.io/"
 # Title of your site2022-2019_PhD Program_Caen/Blogdown/Trung-TinNGUYEN.github.io/" 
-
 
 title = "TrungTin Nguyen"
 
