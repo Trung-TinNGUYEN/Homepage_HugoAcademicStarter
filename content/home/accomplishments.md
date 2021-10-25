@@ -19,6 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Computational Statistics and Data Analysis (Elsevier: 2)"
+  organization_url = "https://www.journals.elsevier.com/computational-statistics-and-data-analysis"
+  title = "Journal Reviewing"
+  url = "https://www.journals.elsevier.com/computational-statistics-and-data-analysis"
+  certificate_url = "https://trung-tinnguyen.github.io/Certificate_ComputationalStatisticsDataAnalysis_2021-09-15.pdf" 
+  date_start = "2021-07-04"
+  date_end = "2021-11-30"
+  description = ""
+
+[[item]]
+  organization = "Biometrical Journal (Wiley: 2)"
+  organization_url = "https://onlinelibrary.wiley.com/journal/15214036"
+  title = "Journal Reviewing"
+  url = "https://onlinelibrary.wiley.com/journal/15214036"
+  certificate_url = "https://publons.com/researcher/4259433/trungtin-nguyen" 
+  date_start = "2021-05-11"
+  date_end = "2021-11-18"
+  description = ""
+  
+[[item]]
+  organization = "Communications in Statistics - Theory and Methods (Taylor Francis: 2)"
+  organization_url = "https://www.tandfonline.com/toc/lsta20/current"
+  title = "Journal Reviewing"
+  url = "https://www.tandfonline.com/toc/lsta20/current"
+  certificate_url = "https://publons.com/researcher/4259433/trungtin-nguyen" 
+  date_start = "2020-11-26"
+  date_end = "2021-02-17"
+  description = ""  
+
+[[item]]
+  organization = "Proceedings of the Research School on Statistics and Data Science (RSSDS 2019) (Springer: 2)"
+  organization_url = "https://sites.google.com/view/rssds2019/home"
+  title = "Conference reviewing - Program Committee"
+  url = "https://www.springer.com/gp/book/9789811519598"
+  certificate_url = "https://www.springer.com/gp/book/9789811519598" 
+  date_start = "2019-06-14"
+  date_end = "2019-07-26"
+  description = ""    
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Deep Learning Specialization"
