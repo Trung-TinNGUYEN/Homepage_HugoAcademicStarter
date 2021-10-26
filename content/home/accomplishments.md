@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Proceedings of the Research School on Statistics and Data Science (RSSDS 2019) (Springer: 2)"
   organization_url = "https://sites.google.com/view/rssds2019/home"
-  title = "Conference reviewing - Program Committee"
+  title = "Conference Reviewing - Program Committee"
   url = "https://www.springer.com/gp/book/9789811519598"
   certificate_url = "https://www.springer.com/gp/book/9789811519598" 
   date_start = "2019-06-14"
