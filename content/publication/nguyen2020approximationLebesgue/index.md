@@ -5,11 +5,11 @@ authors:
 - Faicel Chamroukhi
 - Hien Duy Nguyen 
 - Geoffrey J McLachlan
-date: "2020-08-22T00:00:00Z"
+date: "2021-10-25T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: 'arXiv preprint arXiv:2008.09787'
+publication: 'arXiv preprint arXiv:2008.09787. To appear. Communications in Statistics - Theory and Methods'
 publication_short: ""
 publication_types:
 - "3"
