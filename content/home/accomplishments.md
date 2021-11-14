@@ -91,9 +91,7 @@ date_format = "Jan. 2, 2006"
   date_start = "2019-06-14"
   date_end = "2019-07-26"
   description = """
-  **The Research School on Statistics and Data Science 2019 (RSSDS2019) provides a series of lectures and posters delivered by experienced academic and industry members on the cutting edge statistics and data science applications and theory.**
-
-Aside from being considered among the most desirable jobs of the 21st century, the real world value of data science and skilled data scientists cannot be understated. The most successful data science professionals are those who can hone the power of statistics, programming, domain knowledge and data visualisation. The workshops at RSSDS2019 will empower current and upcoming data scientists (and enthusiasts) with new knowledge, understanding and exploration into many varied and interesting data domains, alongside the opportunity to network with many others involved at various levels in the exciting data science scene.
+  **Description:** The Research School on Statistics and Data Science 2019 (RSSDS2019) provides a series of lectures and posters delivered by experienced academic and industry members on the cutting edge statistics and data science applications and theory. Aside from being considered among the most desirable jobs of the 21st century, the real world value of data science and skilled data scientists cannot be understated. The most successful data science professionals are those who can hone the power of statistics, programming, domain knowledge and data visualisation. The workshops at RSSDS2019 will empower current and upcoming data scientists (and enthusiasts) with new knowledge, understanding and exploration into many varied and interesting data domains, alongside the opportunity to network with many others involved at various levels in the exciting data science scene.
   """   
 
 [[item]]
