@@ -6,10 +6,10 @@ address:
   postcode: ""
   region: 
   street: 
-all_day: true
+all_day: false
 authors: [admin]
 date: "2021-09-30T09:00:00Z"
-date_end: "2021-10-01T00:00:00Z"
+date_end: "2021-09-29T17:00:00Z"
 event: Journée Thématique "Intelligence Artificielle - Applications et défis mathématiques"
 event_url: http://lmi.insa-rouen.fr/mfa/2-non-categorise/122-iae2021.html
 featured: true

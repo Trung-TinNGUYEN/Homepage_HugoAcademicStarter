@@ -6,7 +6,7 @@ address:
   postcode: ""
   region: Normandie, France
   street: 
-all_day: true
+all_day: false
 authors: [admin]
 date: "2021-04-08T09:00:00Z"
 date_end: "2021-04-09T15:00:00Z"

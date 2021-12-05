@@ -6,10 +6,10 @@ address:
   postcode: ""
   region: 
   street: 
-all_day: true
+all_day: false
 authors: [admin]
 date: "2021-10-29T09:00:00Z"
-date_end: "2021-10-30T00:00:00Z"
+date_end: "2021-10-29T18:00:00Z"
 event: Jed 2021 Journée scientifique de l'École Doctorale 2021
 event_url: https://jed2021.sciencesconf.org/
 featured: true
