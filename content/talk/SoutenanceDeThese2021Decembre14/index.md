@@ -37,7 +37,7 @@ title: Model Selection and Approximation in High-dimensional Mixtures of Experts
 url_code: "https://github.com/Trung-TinNGUYEN"
 url_pdf: "https://trung-tinnguyen.github.io/files/PhDThesis2021_Manuscript_TrungTin_Nguyen.pdf"
 url_slides: "https://trung-tinnguyen.github.io/talks/Presentation_Soutenance_These_TrungTinNguyen.pdf"
-url_video: ""
+url_video: "https://youtu.be/aLwMzQkL4UU"
 ---
 <!---
 The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
