@@ -19,6 +19,31 @@ date_format = "Jan. 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Normandie Université - Université de Caen Normandie"
+  organization_url = "https://www.normandie-univ.fr/"
+  title = "Ph.D. in Statistics and Data Science"
+  url = "https://ed-miis.normandie-univ.fr/presentation/"
+  certificate_url = "https://trung-tinnguyen.github.io/files/Attestation_De_Reussite_Au_Diplome_Doctorat_TrungTin_Nguyen.pdf" 
+  date_start = "2018-11-01"
+  date_end = "2021-12-31"
+  description = """
+  **Advisor:** [Professor Faïcel Chamroukhi](https://chamroukhi.com/) ([Université de Caen Normandie](https://www.unicaen.fr/)).
+  
+  **Co-advisor:** [Senior Lecturer Hien Duy Nguyen](https://hiendn.github.io/) ([University of Queensland](https://www.uq.edu.au/)).
+  
+  **Thesis title:** Model selection and approximation in high-dimensional mixtures of experts models$:$ from
+  theory to practice.
+  
+  **Manuscript:** [PDF](https://trung-tinnguyen.github.io/files/PhDThesis2021_Manuscript_TrungTin_Nguyen.pdf).
+  
+  **Slide:** [PDF](https://trung-tinnguyen.github.io/talks/Presentation_Soutenance_These_TrungTinNguyen.pdf).
+  
+  **Video:** [Youtube](https://www.youtube.com/watch?v=aLwMzQkL4UU).
+  
+  **Code:** [GitHub](https://github.com/Trung-TinNGUYEN).
+  """
+
+[[item]]
   organization = "Computational Statistics and Data Analysis (Elsevier: 2)"
   organization_url = "https://www.journals.elsevier.com/computational-statistics-and-data-analysis"
   title = "Journal Reviewing"
