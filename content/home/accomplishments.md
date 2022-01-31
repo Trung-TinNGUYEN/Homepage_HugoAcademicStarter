@@ -44,11 +44,11 @@ date_format = "Jan. 2, 2006"
   """
 
 [[item]]
-  organization = "Computational Statistics and Data Analysis (Elsevier: 2)"
+  organization = "Computational Statistics and Data Analysis (Elsevier: 4)"
   organization_url = "https://www.journals.elsevier.com/computational-statistics-and-data-analysis"
   title = "Journal Reviewing"
   url = "https://www.journals.elsevier.com/computational-statistics-and-data-analysis"
-  certificate_url = "https://trung-tinnguyen.github.io/files/2021-09-15_Reviewer_ComputationalStatisticsDataAnalysis.pdf" 
+  certificate_url = "https://trung-tinnguyen.github.io/files/Certificate_COMSTA_Recognised.pdf" 
   date_start = "2021-07-04"
   date_end = "2021-11-30"
   description = ""
