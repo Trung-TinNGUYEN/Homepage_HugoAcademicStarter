@@ -64,7 +64,7 @@ Hi there and welcome! I am currently a **Postdoctoral Fellow** at the **[Inria G
 
 **A central theme of my research focuses on Data Science**, at the interface of:
 - **Statistical learning**: supervised, unsupervised and visualization of high-dimensional data, **model selection** in clustering and regression for functional and heterogeneous data, **statistical convergence for deep hierarchical mixtures of experts (MoE)**, **approximate Bayesian computation**.
-- **Machine learning**: deep generative models (**variational autoencoders**, generative adversarial networks), reinforcement learning.
+- **Machine learning**: deep generative models (**variational autoencoders**, generative adversarial networks), reinforcement learning, optimal transport (**Wasserstein distance**).
 - **Optimization**: robust and effective optimization algorithms for deep neural network (stochastic gradient descent, Adam,...), deep hierarchical MoE (**generalized expectation–maximization (EM) algorithm, MM algorithm**,...), DC algorithm.
 - **Biostatistics**: statistical learning and machine learning for large biological data sets (omics data), e.g., genomics, transcriptomics and proteinomics.
 
