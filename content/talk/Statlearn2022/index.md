@@ -9,7 +9,7 @@ address:
 all_day: false
 authors: [admin]
 date: "2022-04-04T09:00:00Z"
-date_end: "2021-04-08T18:00:00Z"
+date_end: "2022-04-08T18:00:00Z"
 event: Statlearn 2022
 event_url: https://statlearn.sciencesconf.org/
 featured: true
