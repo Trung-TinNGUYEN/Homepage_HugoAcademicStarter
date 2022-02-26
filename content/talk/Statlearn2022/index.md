@@ -27,7 +27,7 @@ location: Institut d'Etudes Scientifiques de Cargèse, Cargese, Corsica
 math: true
 projects:
 - Model selection in mixture of experts models
-publishDate: "2022-02-25 T10:30:00Z"
+publishDate: "2022-02-22 T10:30:00Z"
 slides: 
 summary: 
 tags: []

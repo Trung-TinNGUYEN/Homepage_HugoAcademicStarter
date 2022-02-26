@@ -18,6 +18,17 @@ date_format = "Jan. 2, 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Neurocomputing (Elsevier: 1)"
+  organization_url = "https://www.journals.elsevier.com/neurocomputing"
+  title = "Journal Reviewing"
+  url = "https://www.journals.elsevier.com/neurocomputing"
+  certificate_url = "https://trung-tinnguyen.github.io/files/Certificate_NEUCOM_Recognised.pdf" 
+  date_start = "2022-01-16"
+  date_end = "2022-03-31"
+  description = ""
+
 [[item]]
   organization = "Normandie Université - Université de Caen Normandie"
   organization_url = "https://www.normandie-univ.fr/"
