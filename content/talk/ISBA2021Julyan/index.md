@@ -11,7 +11,7 @@ authors: [Julyan Arbel]
 date: "2021-06-28T00:00:00Z"
 date_end: "2021-07-02T23:59:00Z"
 event: 2021 World Meeting of the International Society for Bayesian Analysis
-event_url: https://events.stat.uconn.edu/ISBA2021/
+event_url: https://whova.com/embedded/session/8SxTR91Pdj4oTCSNEVFNTKm/VSIWBZTBnsxtpUnF/Aw=/1572912/?widget=primary
 featured: true
 image:
   caption: 'Image credit: **Florence Forbes**'
