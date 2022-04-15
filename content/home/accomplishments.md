@@ -18,6 +18,15 @@ date_format = "Jan. 2, 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Société Française de Statistique (SFdS)"
+  organization_url = "https://www.sfds.asso.fr/"
+  title = "Spring school Statlearn2022: Challenging Problems in Statistical Learning"
+  url = "https://statlearn.sciencesconf.org/"
+  certificate_url = "https://trung-tinnguyen.github.io/files/Statlearn22_Certificate.pdf" 
+  date_start = "2022-04-04"
+  date_end = "2022-04-08"
+  description = ""
 
 [[item]]
   organization = "Neurocomputing (Elsevier: 1)"
