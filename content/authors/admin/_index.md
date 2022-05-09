@@ -30,7 +30,7 @@ role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tinnguyen0495@gmail.com
+  link: mailto:trungtinnguyends@gmail.com
 - icon: researchgate
   icon_pack: ai
   link: https://bit.ly/32ew4qF
