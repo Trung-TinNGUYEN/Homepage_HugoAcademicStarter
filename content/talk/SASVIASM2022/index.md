@@ -35,7 +35,7 @@ title: A non-asymptotic approach for model selection via penalization in high-di
 url_code: ""
 url_pdf: ""
 url_slides: "https://trung-tinnguyen.github.io/talks/SAS_VIASM_BLoME_Supp.pdf"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=HQhtVO7abXo"
 ---
 <!---
 The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
