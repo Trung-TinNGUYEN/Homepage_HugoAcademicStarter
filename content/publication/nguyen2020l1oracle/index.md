@@ -9,7 +9,7 @@ date: "2020-09-22T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: 'arXiv preprint arXiv:2009.10622'
+publication: 'arXiv preprint arXiv:2009.10622. Under revision, ESAIM: Probability and Statistics'
 publication_short: ""
 publication_types:
 - "3"
