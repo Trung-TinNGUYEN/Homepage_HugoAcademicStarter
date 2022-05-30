@@ -20,7 +20,7 @@ tags:
 title: An l1-oracle inequality for the Lasso in mixture-of-experts regression models
 url_code: ""
 url_dataset: ""
-url_pdf: https://bit.ly/3wGlmXR
+url_pdf: https://arxiv.org/abs/2009.10622
 url_poster: ""
 url_project: ""
 url_slides: ""
