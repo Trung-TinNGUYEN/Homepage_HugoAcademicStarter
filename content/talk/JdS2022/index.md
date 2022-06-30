@@ -20,7 +20,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/TrungTinNGUYE10
+  url: ttps://twitter.com/TrungTinNguyen0
   
 location: Université Claude Bernard Lyon 1, France
 

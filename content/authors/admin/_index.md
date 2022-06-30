@@ -33,25 +33,28 @@ social:
   link: mailto:trungtinnguyends@gmail.com
 - icon: researchgate
   icon_pack: ai
-  link: https://bit.ly/32ew4qF
-- icon: orcid
-  icon_pack: ai
-  link: https://bit.ly/39TqJJt
+  link: https://www.researchgate.net/profile/Trungtin-Nguyen-2
 - icon: google-scholar
   icon_pack: ai
-  link: https://bit.ly/3dUk5E5
+  link: https://scholar.google.com/citations?user=NhiJDJsAAAAJ&hl=en
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/TrungTinNguyen0   
 - icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/1899270520
+- icon: orcid
   icon_pack: ai
   link: https://www.semanticscholar.org/author/1899270520
 - icon: github
   icon_pack: fab
-  link: https://bit.ly/3uGLH63
+  link: https://github.com/Trung-TinNGUYEN
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/trung_tin__nguyen/  
 - icon: linkedin
   icon_pack: fab
-  link: https://bit.ly/3wFNV7H
-- icon: twitter
-  icon_pack: fab
-  link: https://bit.ly/39Y2sSA  
+  link: https://www.linkedin.com/in/trungtinnguyen0/  
 superuser: true
 title: TrungTin Nguyen
 #title: 

@@ -20,7 +20,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/TrungTinNGUYE10
+  url: https://twitter.com/TrungTinNguyen0
   
 location:  Vietnam Institute for Advanced Study in Mathematics, Vietnam
 
