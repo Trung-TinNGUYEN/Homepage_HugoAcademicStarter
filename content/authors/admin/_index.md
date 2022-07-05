@@ -45,7 +45,7 @@ social:
   link: https://www.semanticscholar.org/author/1899270520
 - icon: orcid
   icon_pack: ai
-  link: https://www.semanticscholar.org/author/1899270520
+  link: https://orcid.org/my-orcid?orcid=0000-0001-8433-5980
 - icon: github
   icon_pack: fab
   link: https://github.com/Trung-TinNGUYEN
